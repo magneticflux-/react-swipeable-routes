@@ -19,7 +19,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "path-to-regexp": "^2.1.0",
+    "path-to-regexp": "^2.4.0",
     "react-swipeable-views": "^0.12.4",
     "react-testing-library": "^5.3.1"
   },
